@@ -6,7 +6,7 @@ public class MyClass {
 		// TODO Auto-generated method stub
 		ABC ob = new ABC();
 		ob.T();
-		ob.T2();
+		ob.T2(); 
 	}
 
 }
